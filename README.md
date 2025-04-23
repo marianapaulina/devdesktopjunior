@@ -6,7 +6,7 @@
 ## Olá! 👋
 
 Este repositório apresenta a solução que desenvolvi para o desafio técnico proposto, que consistiu na criação de um controle de CEP utilizando API pública do [ViaCEP](https://viacep.com.br/).
- O objetivo principal foi demonstrar minhas habilidades em lógica de programação, orientação a objetos básica, integração com APIs, persistência de dados em um banco de dados relacional (PostgreSQL) e utilização de ferramentas de versionamento (Git/GitHub).
+ O objetivo principal foi demonstrar minhas habilidades em lógica de programação e integração com APIs, persistência de dados em um banco de dados relacional (PostgreSQL) e utilização de ferramentas de versionamento (Git/GitHub).
 
 ## Demonstração em Ação! ✨
 
