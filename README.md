@@ -42,4 +42,4 @@ O projeto é composto pelos seguintes elementos principais:
 
 ## Conclusão e Agradecimento 🙏
 
-Este desafio foi uma excelente oportunidade para aplicar meus conhecimentos e aprender novas habilidades. Agradeço a oportunidade de apresentar meu trabalho e espero que ele demonstre meu potencial como futuro Desenvolvedor.
+Este desafio foi uma excelente oportunidade para aplicar meus conhecimentos e aprender novas habilidades. Agradeço a oportunidade de apresentar meu trabalho e espero que ele demonstre meu potencial como futura Desenvolvedora.
