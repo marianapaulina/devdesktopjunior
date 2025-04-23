@@ -13,8 +13,7 @@ A aplicação desenvolvida permite ao usuário inserir um CEP, consultar as info
 <br>
 **Aplicação Delphi em Execução:**
 <br>
-![Uploading image.pzng…]()
-
+![Tela da aplicação](img/tela.png)
 
 <br>
 *Aqui, uma captura de tela da interface da aplicação Delphi mostrando um CEP consultado e as informações exibidas.*
