@@ -1,10 +1,12 @@
 # devdesktopjunior
-Desafio Técnico - Banco de Talentos de DEV - TecnoSpeed
-# Consulta de CEP com Persistência em PostgreSQL - Desafio Técnico
+# Consulta de CEP 
+### Desafio Técnico - Banco de Talentos de DEV - TecnoSpeed
+
 
 ## Olá! 👋
 
-Este repositório apresenta a solução que desenvolvi para o desafio técnico proposto, que consistiu na criação de um controle de CEP utilizando a API pública do ViaCEP (https://viacep.com.br/). O objetivo principal foi demonstrar minhas habilidades em lógica de programação, orientação a objetos básica, integração com APIs, persistência de dados em um banco de dados relacional (PostgreSQL) e utilização de ferramentas de versionamento (Git/GitHub).
+Este repositório apresenta a solução que desenvolvi para o desafio técnico proposto, que consistiu na criação de um controle de CEP utilizando API pública do [ViaCEP](https://viacep.com.br/).
+ O objetivo principal foi demonstrar minhas habilidades em lógica de programação, orientação a objetos básica, integração com APIs, persistência de dados em um banco de dados relacional (PostgreSQL) e utilização de ferramentas de versionamento (Git/GitHub).
 
 ## Demonstração em Ação! ✨
 
@@ -13,8 +15,7 @@ A aplicação desenvolvida permite ao usuário inserir um CEP, consultar as info
 <br>
 **Aplicação Delphi em Execução:**
 <br>
-![Tela da aplicação](img/tela.png)
-
+<img src="img/tela.png" alt="Tela da aplicação" width="600"/>
 <br>
 *Aqui, uma captura de tela da interface da aplicação Delphi mostrando um CEP consultado e as informações exibidas.*
 
@@ -24,7 +25,7 @@ A aplicação desenvolvida permite ao usuário inserir um CEP, consultar as info
 * **Modelagem de Dados:** Criação da classe `TCep` para armazenar os dados de endereço retornados pela API.
 * **Persistência em PostgreSQL:** Utilização do banco de dados PostgreSQL para armazenar os dados de CEP consultados, com lógica para inserir novos registros ou atualizar existentes.
 * **Teste da API:** Utilização do Postman para testar e validar a integração com a API ViaCEP, incluindo consultas por CEP específico e por logradouro.
-* * **Consulta por UF:** consulta SQL buscar todos os CEPs cadastrados no estado do Paraná (PR) no banco de dados.
+* **Consulta por UF:** consulta SQL buscar todos os CEPs cadastrados no estado do Paraná (PR) no banco de dados.
 
 ## Arquitetura da Solução ⚙️
 
