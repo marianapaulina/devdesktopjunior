@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "1509fb4e-1e0f-4358-9bd6-95779529715c",
+		"name": "Consulta ViaCEP - TecnoSpeed_logradouro",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43949550",
+		"_collection_link": "https://mari-3751097.postman.co/workspace/Mari's-Workspace~99a7fba0-4efb-47aa-8ce9-49112b491197/collection/43949550-1509fb4e-1e0f-4358-9bd6-95779529715c?action=share&source=collection_link&creator=43949550"
+	},
+	"item": [
+		{
+			"name": "https://viacep.com.br/ws/pr/maringa/rua%20vitorio%20balani/json/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/pr/maringa/rua%20vitorio%20balani/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"pr",
+						"maringa",
+						"rua%20vitorio%20balani",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

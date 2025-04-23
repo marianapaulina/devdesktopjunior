@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "a2ad984c-0523-4f21-a8af-1acfc6cee5e7",
+		"name": "Consulta ViaCEP - TecnoSpeed",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43949550",
+		"_collection_link": "https://mari-3751097.postman.co/workspace/Mari's-Workspace~99a7fba0-4efb-47aa-8ce9-49112b491197/collection/43949550-a2ad984c-0523-4f21-a8af-1acfc6cee5e7?action=share&source=collection_link&creator=43949550"
+	},
+	"item": [
+		{
+			"name": "https://viacep.com.br/ws/87014-210/json/",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://viacep.com.br/ws/87015-310/json/",
+					"protocol": "https",
+					"host": [
+						"viacep",
+						"com",
+						"br"
+					],
+					"path": [
+						"ws",
+						"87015-310",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
